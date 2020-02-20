@@ -1,0 +1,77 @@
+body{
+	max-width: 100%;
+	max-height: 100%;
+	background-color: black;
+}
+
+.header{
+	margin: 8px 0;
+	color: grey;
+}
+
+.login-btn {
+	background-color: #4CAF50;
+  	border-radius: 15px;
+  	color: white;
+  	width: 80%;
+  	padding: 12px 20px;
+  	margin: 8px 0;
+}
+
+.login-input{
+	padding: 12px 20px;
+  	margin: 8px 0;
+  	box-sizing: border-box;
+  	border: none;
+  	border-bottom: 1px solid lightgrey;
+  	width: 80%;
+}
+
+.inner-container{
+	background-color:white;
+	height: 60%;
+  	width: 50%;
+  	margin: auto;
+  	text-align: center;
+  	position: relative;
+  	padding-top: 2%;
+}
+
+.container{
+	background-color:lightgrey;
+	max-width: 50%;
+	margin-top: 150px;
+  	margin-left: 500px;
+  	height: 500px;
+  	width: 800px;
+  	text-align: center;
+  	position: relative;
+  	padding-top: 5%;
+}
+
+.recovery{
+	color: grey;
+	font-size: 10px;
+	margin: 8px 0;
+}
+
+.recovery1{
+	text-decoration-line: underline;
+}
+
+.noacc{
+	color: grey;
+	font-size: 10px;
+	margin: 8px 0;
+}
+
+#under{
+	text-decoration-line: underline;
+}
+
+.fb{
+	width: 50%;
+	margin: auto;
+  	text-align: center;
+  	position: relative;
+}
